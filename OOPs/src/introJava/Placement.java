@@ -10,9 +10,9 @@ class Placement{
         System.out.println("Enter the no of students placed in ECE:");
         int MECH = sc.nextInt();
         System.out.println("Enter the no of students placed in MECH:");
-        System.out.println("Testing");
+        System.out.println("Testing123");
         
-        //Negative Input
+        //Negative Input 
         if (CSE<0 || ECE<0 || MECH<0)
         {
             System.out.println("Input is Invalid");
